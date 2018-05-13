@@ -1,5 +1,5 @@
 {
-  "name": "remove-webpack-plugin",
+  "name": "jay-remove-webpack-plugin",
   "version": "1.0.0",
   "description": "webpack remove less entry webpack4",
   "main": "index.js",
