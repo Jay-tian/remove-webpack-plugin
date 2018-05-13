@@ -1,0 +1,26 @@
+{
+  "name": "remove-webpack-plugin",
+  "version": "1.0.0",
+  "description": "webpack remove less entry webpack4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jay-tian/remove-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "remove",
+    "less",
+    "entry",
+    "webpack4"
+  ],
+  "author": "jay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jay-tian/remove-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/Jay-tian/remove-webpack-plugin#readme"
+}
