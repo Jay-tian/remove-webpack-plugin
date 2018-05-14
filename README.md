@@ -4,7 +4,7 @@
 如何使用
 
 ```
-const PurifyCSSPlugin = require('jay-remove-webpack-plugin');
+const RemoveWebpackPlugin = require('jay-remove-webpack-plugin');
 
 new RemoveWebpackPlugin({
     filterPath: /^\/css\/.*\.js?$/ig
